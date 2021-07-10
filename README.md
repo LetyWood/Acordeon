@@ -7,12 +7,13 @@
 3. [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/) :white_check_mark:
 ![Mapa_conceptual_nuber](https://user-images.githubusercontent.com/87049027/125152772-8e6c7480-e114-11eb-8407-8df528e8eb6f.png)
 
-### Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure![Uploading Mapa_conceptual_nuber.png…]()
+### Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure
 
 4. [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/) :white_check_mark:
 5. [Exploración de los servicios de red de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-networking-fundamentals/) :white_check_mark:
 6. [Exploración de los servicios de Azure Storage](https://docs.microsoft.com/es-mx/learn/modules/azure-storage-fundamentals/)
 7. [Exploración de los servicios de análisis y bases de datos de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
+
 
 ### Aspectos básicos de Azure, parte 3: Descripción de las principales soluciones y herramientas de administración de Azure
 8. [Elegir el mejor servicio de Azure IoT para su aplicación](https://docs.microsoft.com/es-mx/learn/modules/iot-fundamentals/)
