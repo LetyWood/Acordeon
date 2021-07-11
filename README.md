@@ -3,7 +3,10 @@
 
 ### Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure 
 1. [Introducción a los aspectos básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/) :white_check_mark:
-2. [Conceptos fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/) :white_check_mark:
+2. [Conceptos fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/) ✅
+
+![Ventajas-de-la-nube](https://user-images.githubusercontent.com/87049027/125184853-aad8e180-e1e6-11eb-9784-608989dcf655.png)
+
 3. [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/) :white_check_mark:
 
 ### contenido
