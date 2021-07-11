@@ -5,6 +5,10 @@
 1. [Introducción a los aspectos básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/) :white_check_mark:
 2. [Conceptos fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/) :white_check_mark:
 3. [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/) :white_check_mark:
+
+### contenido
+- [Conceptos basicos1](https://github.com/LetyWood/Acordeon/blob/main/img/conceptosBasicos1.png)
+- [Conceptos basicos2]()
 ![Mapa_conceptual_nuber](https://user-images.githubusercontent.com/87049027/125152772-8e6c7480-e114-11eb-8407-8df528e8eb6f.png)
 
 ### Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure
