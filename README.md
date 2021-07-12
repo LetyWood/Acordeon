@@ -4,23 +4,23 @@
 ### Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure 
 1. [Introducción a los aspectos básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/) :white_check_mark:
 2. [Conceptos fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/) ✅
+3. [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/) 
 
-![Ventajas-de-la-nube](https://user-images.githubusercontent.com/87049027/125184853-aad8e180-e1e6-11eb-9784-608989dcf655.png)
-
-3. [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/) :white_check_mark:
-
-### contenido
-- [Conceptos basicos1](https://github.com/LetyWood/Acordeon/blob/main/img/conceptosBasicos1.png)
-- [Conceptos basicos2]()
-![Mapa_conceptual_nuber](https://user-images.githubusercontent.com/87049027/125152772-8e6c7480-e114-11eb-8407-8df528e8eb6f.png)
+#### Contenido
+![Conceptos basicos1](https://github.com/LetyWood/Acordeon/blob/main/imagens/conceptosBasicos1.jpg)
+![tipos de nuebe](https://github.com/LetyWood/Acordeon/blob/main/imagens/tiposDeNube.png)
+![Conceptos basicos](https://github.com/LetyWood/Acordeon/blob/main/imagens/conceptosBasicos2.jpg)
+###### [Ventajas de la nube](https://github.com/LetyWood/Acordeon/blob/main/imagens/ventajasDeLaNube5.png)
 
 ### Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure
-
 4. [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/) :white_check_mark:
 5. [Exploración de los servicios de red de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-networking-fundamentals/) :white_check_mark:
 6. [Exploración de los servicios de Azure Storage](https://docs.microsoft.com/es-mx/learn/modules/azure-storage-fundamentals/)
 7. [Exploración de los servicios de análisis y bases de datos de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
 
+#### Contenido
+![Servicios de azure compute1](https://github.com/LetyWood/Acordeon/blob/main/imagens/serviciosDeAzureCompute1.jpg)
+![Servicios de azure compute2](https://github.com/LetyWood/Acordeon/blob/main/imagens/serviciosDeAzureCompute2.jpg)
 
 ### Aspectos básicos de Azure, parte 3: Descripción de las principales soluciones y herramientas de administración de Azure
 8. [Elegir el mejor servicio de Azure IoT para su aplicación](https://docs.microsoft.com/es-mx/learn/modules/iot-fundamentals/)
